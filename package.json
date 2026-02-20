@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "author": "Gokulanand S",
   "private": true,
-  "homepage": "https://gokulanands05.github.io/portfolio",
+  "homepage": "",
   "dependencies": {
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.5",
