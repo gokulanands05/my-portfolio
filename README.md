@@ -39,6 +39,6 @@ Hi! I'm **Gokulanand S**, a Java Backend Developer currently pursuing B.E. in Co
     npm start
     ```
 
-3. Open [http://localhost:3000](http://localhost:3000) to view my portfolio.
+3. Open https://gokulanand-dev.vercel.app/ to view my portfolio.
 
  
