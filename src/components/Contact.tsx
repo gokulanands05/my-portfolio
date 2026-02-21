@@ -3,6 +3,7 @@ import '../assets/styles/Contact.scss';
 import GitHubIcon from '@mui/icons-material/GitHub';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import EmailIcon from '@mui/icons-material/Email';
+import DescriptionIcon from '@mui/icons-material/Description';
 
 function Contact() {
   return (
@@ -23,6 +24,10 @@ function Contact() {
             <a href="https://www.linkedin.com/in/gokulanands03" target="_blank" rel="noreferrer" className="contact-item">
               <LinkedInIcon />
               <span>linkedin.com/in/gokulanands03</span>
+            </a>
+            <a href="/assets/Gokulanand_UG_CV.pdf" target="_blank" rel="noreferrer" className="contact-item">
+              <DescriptionIcon />
+              <span>Resume / CV</span>
             </a>
           </div>
         </div>

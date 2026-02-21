@@ -13,3 +13,48 @@ footer {
         font-size: 0.8em;
     }
 }
+
+@media screen and (max-width: 768px) {
+    footer {
+        padding-top: 30px;
+        padding-bottom: 30px;
+
+        svg {
+            width: 1.2em !important;
+            height: 1.2em !important;
+            margin-right: 12px;
+        }
+
+        p {
+            font-size: 0.75em;
+            margin-top: 20px;
+        }
+
+        div {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+        }
+    }
+}
+
+@media screen and (max-width: 480px) {
+    footer {
+        padding-top: 20px;
+        padding-bottom: 20px;
+
+        svg {
+            width: 1em !important;
+            height: 1em !important;
+            margin-right: 8px;
+        }
+
+        p {
+            font-size: 0.7em;
+        }
+
+        div {
+            gap: 10px;
+        }
+    }
+}
