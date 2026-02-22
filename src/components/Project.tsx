@@ -8,7 +8,7 @@ function Project() {
         <div className="projects-grid">
             {/* Projects will be added here in the future */}
             <div className="project placeholder">
-                <p>Coming Soon...</p>
+                <p>!</p>
             </div>
         </div>
     </div>
